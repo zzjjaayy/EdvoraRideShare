@@ -1,6 +1,7 @@
 # EdvoraRideShare
 
 ### Take home assignment for intern role @Edvora
+NOTE -> This app is not optimised for light mode since the design was primarily dark.
 ![Screenshots](https://i.imgur.com/c0Nswf7.png)
 
 API endpoints used → 
