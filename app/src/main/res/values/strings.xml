@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EdvoraRideShare</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ride_id_template">Ride Id: %d</string>
+    <string name="origin_template">Origin Station: %d</string>
+    <string name="path_template">Station Path: %s</string>
+    <string name="date_template">Date: %s</string>
+    <string name="distance_template">Distance: %d</string>
+    <string name="empty_upcoming">No Upcoming Rides!</string>
+    <string name="empty_past">No Past rides found!</string>
+</resources>
